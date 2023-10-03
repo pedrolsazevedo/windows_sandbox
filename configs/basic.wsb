@@ -1,0 +1,16 @@
+<Configuration>
+  <vGPU>Enable</vGPU>
+
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\tmp\vol</HostFolder>
+      <SandboxFolder>C:\tmp\vol</SandboxFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+
+  <ProtectedClient>Enable</ProtectedClient>
+
+  <ClipboardRedirection>Enable</ClipboardRedirection>
+  
+</Configuration>
